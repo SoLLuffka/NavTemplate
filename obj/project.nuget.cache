@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OBNEW/LZaoc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sollu\\RiderProjects\\NavTemplate\\NavTemplate\\NavTemplate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sollu\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.0-rc.1.24431.7\\microsoft.extensions.dependencyinjection.9.0.0-rc.1.24431.7.nupkg.sha512",
+    "C:\\Users\\sollu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0-rc.1.24431.7\\microsoft.extensions.dependencyinjection.abstractions.9.0.0-rc.1.24431.7.nupkg.sha512"
+  ],
+  "logs": []
+}
